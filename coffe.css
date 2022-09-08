@@ -9,19 +9,38 @@ body{
    margin-left: 200PX;
    color:white;
    margin-top: 110PX;
-   font-size: 100px;
+   font-size: 70px;
    margin-left: 2px;
 }
 .tc{
-background-color: gray;
-border: 0;
-border-radius: 3px;
+background-color: white;
+margin-right: 50px;
+border-radius: 10px;
+font-size: 18px;
+height: 40px;
+width: 15%;
 }
 .lm{
-    border-radius: 4px; 
+    border-radius: 10px; 
 background-color: transparent;
-border-color: white;
+border-color: black;
+margin-left: 20px;
+background-color:white ;
+font-size: 18px;
+height: 45px;
+width: 19%;
+
 }
-
-
+button{
+    height: 30px;
+}
+.wrapper{
+   margin-top: 100px;
+   margin-left: 90vh;
+  
+}
+.p{
+font-size: 25px;
+color:white ;
+}
 
